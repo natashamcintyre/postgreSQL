@@ -1,9 +1,5 @@
-# postgreSQL
-A guide on installing postgreSQL
-
-# Walkthrough - Setting up a Database
-
-[Back to Challenge](../04_setting_up_a_database.md)
+<h1 align=center>PostgreSQL</h1>
+<p align=center>A guide on installing postgreSQL</p>
 
 There are two ways of installing PostgreSQL:
 
