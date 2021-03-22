@@ -73,4 +73,4 @@ postgres=# \q
 
 Because you made a database with the same name as your computer, from now on you will be able to log in to `psql` without having to specify the database you want to log into. It's enough to type `psql` and get writing SQL.
 
-These instructions are a walkthrough from the Makers course
+_These instructions are a walkthrough from the Makers course_
